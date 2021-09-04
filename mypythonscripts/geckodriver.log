@@ -1,0 +1,130 @@
+1629848946306	geckodriver	INFO	Listening on 127.0.0.1:18148
+1629848949347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofilefFQMLw"
+1629848950151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofilefFQMLw\\search.json.mozlz4", (void 0)))
+1629848953104	Marionette	INFO	Listening on port 18158
+1629848953523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+JavaScript error: https://cdn.cookielaw.org/consent/b729d3d4-d816-4c03-88c5-bc68046961e7.js, line 339: TypeError: OneTrust is not a constructor
+JavaScript error: https://cdn.cookielaw.org/consent/b729d3d4-d816-4c03-88c5-bc68046961e7.js, line 339: TypeError: OneTrust is not a constructor
+1629848985826	Marionette	INFO	Stopped listening on port 18158
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629849003584	geckodriver	INFO	Listening on 127.0.0.1:18288
+1629849006609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofilek3SmCl"
+1629849006932	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofilek3SmCl\\search.json.mozlz4", (void 0)))
+1629849009208	Marionette	INFO	Listening on port 18297
+1629849009272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629849037325	Marionette	INFO	Stopped listening on port 18297
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629849446365	geckodriver	INFO	Listening on 127.0.0.1:11842
+1629849449394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofilei4iEsp"
+1629849449709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofilei4iEsp\\search.json.mozlz4", (void 0)))
+1629849451933	Marionette	INFO	Listening on port 11850
+1629849452064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629849552912	Marionette	INFO	Stopped listening on port 11850
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileomNxOa\\search.json.mozlz4", (void 0)))
+1629849536518	Marionette	INFO	Listening on port 1072
+1629849536917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629849550608	Marionette	INFO	Stopped listening on port 1072
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629849684725	geckodriver	INFO	Listening on 127.0.0.1:1239
+1629849687751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileyAm9yT"
+1629849688083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileyAm9yT\\search.json.mozlz4", (void 0)))
+1629849690367	Marionette	INFO	Listening on port 1249
+1629849690421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://ssl.www8.hp.com/uk/en/system/include/privacy_cookie.JS, line 1842: ReferenceError: Optanon is not defined
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629849699157	Marionette	INFO	Stopped listening on port 1249
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629849925978	geckodriver	INFO	Listening on 127.0.0.1:1415
+1629849929009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileivML5S"
+1629849929325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileivML5S\\search.json.mozlz4", (void 0)))
+1629849931583	Marionette	INFO	Listening on port 1424
+1629849931683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629849948983	Marionette	INFO	Stopped listening on port 1424
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629852621643	geckodriver	INFO	Listening on 127.0.0.1:1114
+1629852624673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileFcx2r5"
+1629852624987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileFcx2r5\\search.json.mozlz4", (void 0)))
+1629852627342	Marionette	INFO	Listening on port 1122
+1629852627853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629852650376	Marionette	INFO	Stopped listening on port 1122
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629852674687	geckodriver	INFO	Listening on 127.0.0.1:1243
+1629852677709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileceMTuc"
+1629852678047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\biven\\AppData\\Local\\Temp\\rust_mozprofileceMTuc\\search.json.mozlz4", (void 0)))
+1629852680287	Marionette	INFO	Listening on port 1252
+1629852680388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://partsurfer.hp.com/Search.aspx, line 806: unreachable code after return statement
+JavaScript error: https://partsurfer.hp.com/Search.aspx, line 1729: TypeError: coll[0] is undefined
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www8.hp.com/us/en/scripts/framework/jquery/v-1-8/can.jquery.js, line 3: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nexus.ensighten.com/hp/hpcom_prod/code/87463c77d67c3be7d516c24b7df0bfa1.js?conditionId0=365271, line 179: SyntaxError: unterminated parenthetical
+1629852683784	Marionette	INFO	Stopped listening on port 1252
+[Parent 1540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
